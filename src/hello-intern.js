@@ -8,3 +8,4 @@ console.log("Your environment is ready. You can now start coding!");
 
 console.log("Hello, World!");
 console.log("This confirms that your Node.js setup is working perfectly.");
+console.log("This confirms that your Node.js setup is working perfectly.");
